@@ -1,4 +1,4 @@
-# Installfest
+# Local Invironment Setup
 
 - [ ] **Github and Initial Setup**
 - [ ] [Git](git.md)
