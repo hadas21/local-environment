@@ -1,4 +1,4 @@
-# Local Invironment Setup
+# Local Environment Setup
 
 - [ ] **Github and Initial Setup**
 - [ ] [Git](git.md)
