@@ -1,4 +1,4 @@
-# local-invironment
+# Local Environment Setup
 
 Follow these instructions to set up your laptop for work in SEI. If you've previously set up a development environment on your computer, you may wish to skip some of these steps; do not do so without first checking with an consultant!
 
