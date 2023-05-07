@@ -23,7 +23,7 @@ In your terminal, type:
 scripts/bash.sh
 ```
 
-**Restart your terminal (close it; not just the window! Then reopen it and `cd` back into `sei/installfest`)**
+**Restart your terminal (close it; not just the window! Then reopen it and `cd` back into `Desktop/local-invironment`)**
   - On macOS, this can be done with the keyboard shortcut (&#8984; + Q)
   - On Linux this can be done with the keyboard shortcut (CTRL + D)
 
