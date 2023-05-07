@@ -7,10 +7,6 @@
 - [ ] [Rosetta Terminal (macOS only)](rosetta_terminal.md)
 - [ ] [Homebrew](homebrew.md)
 - [ ] [Node](node.md)
-- [ ] [Python](python.md)
-- [ ] [PostgreSQL](postgres.md)
-- [ ] [Django](django.md)
-- [ ] [MongoDB](mongodb.md)
 - [ ] [VSCode](vscode.md)
 - [ ] [Chrome](chrome.md)
 
